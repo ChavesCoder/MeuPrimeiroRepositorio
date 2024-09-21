@@ -1,0 +1,23 @@
+
+.card-border{
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: solid 2px #0000ff;
+    margin: 20px;
+
+}
+.icone2-border{
+    background-color: #0000ff;
+}
+.text-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.text{
+	font-size: 15px !important;
+}
+.main-color{
+    color: #0000ff;
+}
